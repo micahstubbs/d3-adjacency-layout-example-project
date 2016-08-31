@@ -1,6 +1,8 @@
 a [d3 version 4](https://github.com/d3/d3/blob/master/API.md) port of the bl.ock [Adjacency Matrix Layout](http://bl.ocks.org/emeeks/15c005cba60aad26e11a) from [@Elijah_Meeks](https://twitter.com/elijah_meeks)
 
-to make this example, I also ported the underlying adjacency matrix layout to [d3v4](https://github.com/d3/d3/blob/master/API.md). find that layout at the [d3-adjacency-matrix-layout](https://github.com/micahstubbs/d3-adjacency-matrix-layout) project on github.
+to make this example, I also ported the underlying adjacency matrix layout to [d3v4](https://github.com/d3/d3/blob/master/API.md). find that layout at the [d3-adjacency-matrix-layout](https://github.com/micahstubbs/d3-adjacency-matrix-layout) project on github. 
+
+the dataset shown is the famous [Les Miserables character co-appeareance network](https://networkdata.ics.uci.edu/data.php?id=109)
 
 ---
 
