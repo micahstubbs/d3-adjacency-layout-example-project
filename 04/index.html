@@ -35,8 +35,6 @@
 d3.json('miserables.json', createAdjacencyMatrix);
 
 function createAdjacencyMatrix(data) {
-  // TODO: refactor d3AdjacencyMatrixLayout to make this function call more concise
-  // const adjacencyMatrix = d3AdjacencyMatrixLayout.d3AdjacencyMatrixLayout();
   const adjacencyMatrix = d3.adjacencyMatrixLayout();
   console.log('adjacencyMatrix', adjacencyMatrix);
   console.log('d3', d3);
